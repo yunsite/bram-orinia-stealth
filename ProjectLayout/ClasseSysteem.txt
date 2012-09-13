@@ -1,0 +1,28 @@
+Hero:
+-----
+Hitpoints
+Mana
+Name
+Items
+
+Enemy
+-----
+Items
+Drop Items (== items?)
+
+Enemy Classes
+--------------
+
+HeroClasses
+------------
+Wich abilities
+Max Hp
+Max Mana
+Hp/Mana regen
+Basic equipment
+
+
+Abilities 
+----------
+
+
